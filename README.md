@@ -12,6 +12,8 @@ This project is an interactive web application built with Flask, Dash, Plotly, a
 - Optimized performance for smooth and responsive dashboards
 - Provides both historical and modern Formula 1 performance analysis
 
+---
+
 ## Features
 
 - Animated choropleth map showing Formula 1’s global race expansion over time  
